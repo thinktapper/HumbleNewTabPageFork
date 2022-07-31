@@ -15,7 +15,8 @@ Redesigned new tab page featuring your bookmarks, apps, most visited, and recent
 
 [Download for Firefox](https://addons.mozilla.org/firefox/addon/humble-new-tab/)
 
-This extension replaces the default new tab page. Drag and drop folders to create new columns or reorder them. The font, colors, spacing, and more can be customized from the options menu.
+This extension replaces the default new tab page. Drag and drop folders to create new columns or reorder them. The font,
+colors, spacing, and more can be customized from the options menu.
 
 
 Screenshots
@@ -34,6 +35,11 @@ This project is licensed under the **MIT License**, see [LICENSE_MIT.txt](LICENS
 
 Changelog
 ---------
+
+### Version 1.25 - 2022/07/31 [ming-lz]
+
+- Add auto dark mode
+- Delete color customizable
 
 ### Version 1.24 - February 10, 2019
 
