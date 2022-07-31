@@ -1371,7 +1371,7 @@ var themes_dark = {
   Dracula: {
     font_color: "#F6F6F4",
     background_color: "#282936",
-    highlight_color: "#282936",
+    highlight_color: "#373A59",
     highlight_font_color: "#E7EE98",
     shadow_color: "#62E884",
   },
