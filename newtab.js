@@ -1295,7 +1295,7 @@ var config = {
 
 // color theme values
 var themes = {
-    Default: {}, Classic: {
+    Classic: {
         font_color: '#000000',
         background_color: '#ffffff',
         highlight_color: '#3399ff',
@@ -1340,31 +1340,41 @@ var themes = {
     }
 };
 var themes_dark = {
-    Default: {}, Dusk: {
-        font_color: '#c8b9be',
-        background_color: '#56546b',
-        highlight_color: '#494d5a',
-        highlight_font_color: '#ffd275',
-        shadow_color: '#000000'
-    }, Hacker: {
-        font_color: '#00ff00',
-        background_color: '#000000',
-        highlight_color: '#00ff00',
-        highlight_font_color: '#000000',
-        shadow_color: '#ff0000'
-    }, Midnight: {
-        font_color: '#bfdfff',
-        background_color: '#101827',
-        highlight_color: '#000000',
-        highlight_font_color: '#80ecff',
-        shadow_color: '#0080ff'
-    }, Trees: {
-        font_color: '#cdd088',
-        background_color: '#566157',
-        highlight_color: '#4d674b',
-        highlight_font_color: '#ffff80',
-        shadow_color: '#183010'
-    }
+  Dusk: {
+    font_color: "#c8b9be",
+    background_color: "#56546b",
+    highlight_color: "#494d5a",
+    highlight_font_color: "#ffd275",
+    shadow_color: "#000000",
+  },
+  Hacker: {
+    font_color: "#00ff00",
+    background_color: "#000000",
+    highlight_color: "#00ff00",
+    highlight_font_color: "#000000",
+    shadow_color: "#ff0000",
+  },
+  Midnight: {
+    font_color: "#bfdfff",
+    background_color: "#101827",
+    highlight_color: "#000000",
+    highlight_font_color: "#80ecff",
+    shadow_color: "#0080ff",
+  },
+  Trees: {
+    font_color: "#cdd088",
+    background_color: "#566157",
+    highlight_color: "#4d674b",
+    highlight_font_color: "#ffff80",
+    shadow_color: "#183010",
+  },
+  Dracula: {
+    font_color: "#F6F6F4",
+    background_color: "#282936",
+    highlight_color: "#282936",
+    highlight_font_color: "#E7EE98",
+    shadow_color: "#62E884",
+  },
 };
 var theme, theme_dark = {};
 
